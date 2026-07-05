@@ -211,7 +211,7 @@ st.markdown(
     <div class="header-contenedor">
         <p class="titulo-app">🏥 Sistema de Segmentación y Riesgo Actuarial</p>
         <p class="subtitulo-app">Pipeline Inteligente K-Means enfocado en tarificación de carteras y análisis técnico de seguros.</p>
-        <p class="autor-app"><b>Ingeniería de Características por:</b> Erik Guillen · <b>Registro Universitario:</b> 20211920287 · <b>Módulo:</b> Inteligencia Artificial</p>
+        <p class="autor-app"><b>Desarrollado por:</b> Erik Guillen · <b>Cuenta:</b> 20211920287 · <b>Módulo:</b> Inteligencia Artificial</p>
     </div>
     """,
     unsafe_allow_html=True
